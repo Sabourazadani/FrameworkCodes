@@ -1,0 +1,291 @@
+2021-02-09 21:30:18,538 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 21:30:23,595 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 21:30:23,655 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-09 21:30:23,771 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 21:30:23,772 [main] INFO logger_File - DataBase connection has been closed
+2021-02-09 21:30:23,998 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-09 21:31:38,913 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 21:31:43,650 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 21:31:43,707 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-09 21:31:43,771 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 21:31:43,772 [main] INFO logger_File - DataBase connection has been closed
+2021-02-09 21:31:44,083 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-10 20:59:32,553 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-10 20:59:39,296 [main] INFO logger_File - Retail page is opened
+2021-02-10 20:59:39,308 [main] INFO logger_File - Page title  is verified
+2021-02-10 20:59:40,543 [main] INFO logger_File - User click on My Account
+2021-02-10 20:59:41,240 [main] INFO logger_File - User clicked on Register option
+2021-02-10 20:59:42,066 [main] INFO logger_File - User filled the information form
+2021-02-10 20:59:42,666 [main] INFO logger_File - User check privacy and policy
+2021-02-10 20:59:47,587 [main] INFO logger_File - User clicked on Continue button
+2021-02-10 21:00:09,207 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-10 21:00:14,069 [main] INFO logger_File - Retail page is opened
+2021-02-10 21:00:14,077 [main] INFO logger_File - Page title  is verified
+2021-02-10 21:00:15,088 [main] INFO logger_File - User click on My Account
+2021-02-10 21:00:15,684 [main] INFO logger_File - User clicked on Register option
+2021-02-10 21:00:16,348 [main] INFO logger_File - User filled the information form
+2021-02-10 21:00:16,943 [main] INFO logger_File - User check privacy and policy
+2021-02-10 21:00:17,832 [main] INFO logger_File - User clicked on Continue button
+2021-02-10 21:00:50,637 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-10 21:00:55,530 [main] INFO logger_File - Retail page is opened
+2021-02-10 21:00:55,549 [main] INFO logger_File - Page title  is verified
+2021-02-10 21:00:56,696 [main] INFO logger_File - User click on My Account
+2021-02-10 21:00:57,335 [main] INFO logger_File - User clicked on Register option
+2021-02-10 21:00:58,038 [main] INFO logger_File - User filled the information form
+2021-02-10 21:00:58,679 [main] INFO logger_File - User check privacy and policy
+2021-02-10 21:00:59,715 [main] INFO logger_File - User clicked on Continue button
+2021-02-10 21:01:00,245 [main] INFO logger_File - Account was created Successfully
+2021-02-10 21:01:00,594 [main] INFO logger_File - Register an Account test case   passed
+2021-02-13 15:00:50,856 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-13 15:00:57,662 [main] INFO logger_File - Retail page is opened
+2021-02-13 15:00:57,683 [main] INFO logger_File - Page title  is verified
+2021-02-13 15:00:58,781 [main] INFO logger_File - User verify all items are present in Desktops tab   undefined
+2021-02-13 15:00:58,784 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-13 15:01:00,747 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   undefined
+2021-02-13 15:01:00,750 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-13 15:01:03,446 [main] INFO logger_File - Retail page is opened
+2021-02-13 15:01:03,456 [main] INFO logger_File - Page title  is verified
+2021-02-13 15:01:04,709 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   undefined
+2021-02-13 15:01:04,715 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-13 15:01:07,667 [main] INFO logger_File - Retail page is opened
+2021-02-13 15:01:07,674 [main] INFO logger_File - Page title  is verified
+2021-02-13 15:01:08,912 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   undefined
+2021-02-13 20:24:45,298 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-13 20:24:52,173 [main] INFO logger_File - Retail page is opened
+2021-02-13 20:24:52,189 [main] INFO logger_File - Page title  is verified
+2021-02-13 20:24:53,905 [main] INFO logger_File - User verify all items are present in Desktops tab   undefined
+2021-02-13 20:24:53,911 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-13 20:24:57,559 [main] INFO logger_File - Retail page is opened
+2021-02-13 20:24:57,567 [main] INFO logger_File - Page title  is verified
+2021-02-13 20:24:58,753 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   undefined
+2021-02-13 20:24:58,757 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-13 20:25:01,881 [main] INFO logger_File - Retail page is opened
+2021-02-13 20:25:01,888 [main] INFO logger_File - Page title  is verified
+2021-02-13 20:25:03,240 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   undefined
+2021-02-13 20:25:03,244 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-13 20:25:06,784 [main] INFO logger_File - Retail page is opened
+2021-02-13 20:25:06,793 [main] INFO logger_File - Page title  is verified
+2021-02-13 20:25:08,209 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   undefined
+2021-02-14 00:26:26,480 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-14 00:26:33,638 [main] INFO logger_File - Retail page is opened
+2021-02-14 00:26:33,667 [main] INFO logger_File - Page title  is verified
+2021-02-14 00:26:34,764 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 00:26:35,333 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 00:26:35,770 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-02-14 00:26:35,775 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-14 00:26:39,717 [main] INFO logger_File - Retail page is opened
+2021-02-14 00:26:39,726 [main] INFO logger_File - Page title  is verified
+2021-02-14 00:26:40,991 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 00:26:41,571 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 00:26:41,921 [main] INFO logger_File - User click ADD TO CARToption on ‘HP LP ‘HP LP3065’item
+2021-02-14 00:27:27,188 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-02-14 00:27:27,194 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-14 00:27:31,503 [main] INFO logger_File - Retail page is opened
+2021-02-14 00:27:31,511 [main] INFO logger_File - Page title  is verified
+2021-02-14 00:27:32,625 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 00:27:33,250 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 00:27:33,658 [main] INFO logger_File - User click ADD TO CARToption on ‘Canon EOS 5D’ item
+2021-02-14 00:28:18,916 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-02-14 00:28:18,924 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-14 00:28:22,633 [main] INFO logger_File - Retail page is opened
+2021-02-14 00:28:22,644 [main] INFO logger_File - Page title  is verified
+2021-02-14 00:28:24,137 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 00:28:24,658 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 00:28:24,969 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-02-14 12:16:21,717 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-14 12:16:27,841 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:16:27,853 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:16:29,122 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:16:29,766 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:16:30,199 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-02-14 12:16:30,205 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-14 12:16:33,879 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:16:33,886 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:16:34,907 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:16:35,478 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:16:35,781 [main] INFO logger_File - User click ADD TO CARToption on ‘HP LP ‘HP LP3065’item
+2021-02-14 12:17:21,063 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-02-14 12:17:21,068 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-14 12:17:26,449 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:17:26,458 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:17:27,210 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:17:27,975 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:17:28,500 [main] INFO logger_File - User click ADD TO CARToption on ‘Canon EOS 5D’ item
+2021-02-14 12:18:05,409 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-14 12:18:09,615 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:18:09,625 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:18:11,748 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:18:12,526 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:18:12,956 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-02-14 12:31:32,465 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-14 12:31:39,411 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:31:39,428 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:31:40,642 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:31:41,195 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:31:41,418 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-02-14 12:31:41,422 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-14 12:31:44,793 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:31:44,800 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:31:45,750 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:31:46,277 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:31:46,600 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-02-14 12:31:46,604 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-14 12:31:49,669 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:31:49,676 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:31:50,757 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:31:51,316 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:31:51,764 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-02-14 12:31:51,777 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-14 12:31:54,977 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:31:54,984 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:31:56,108 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:31:56,663 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:31:56,976 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-02-14 12:44:17,288 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-14 12:44:23,812 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:44:23,836 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:44:24,799 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:44:25,842 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:44:26,193 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-02-14 12:44:26,200 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-14 12:44:29,993 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:44:30,000 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:44:31,008 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:44:31,710 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:44:31,973 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-02-14 12:44:31,981 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-14 12:44:36,338 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:44:36,349 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:44:37,093 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:44:37,901 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:44:38,176 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-02-14 12:44:38,186 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-14 12:44:42,100 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:44:42,108 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:44:43,121 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:44:43,661 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:44:43,891 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-02-14 12:52:03,221 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-14 12:52:09,165 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:52:09,178 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:52:09,965 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:52:11,775 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:52:12,215 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-02-14 12:52:12,223 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-14 12:52:16,573 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:52:16,591 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:52:17,397 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:52:18,006 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:52:19,693 [main] INFO logger_File - User click ADD TO CARToption on ‘HP LP ‘HP LP3065’item
+2021-02-14 12:52:20,260 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-02-14 12:52:20,264 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-14 12:52:23,933 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:52:23,946 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:52:24,802 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:52:25,391 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:52:26,845 [main] INFO logger_File - User click ADD TO CARToption on ‘Canon EOS 5D’ item
+2021-02-14 12:53:01,821 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-14 12:53:05,680 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:53:05,687 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:53:06,659 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:53:07,334 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:53:07,859 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-02-14 12:54:49,513 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-14 12:54:54,131 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:54:54,139 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:54:55,337 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:54:55,889 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:54:56,264 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-02-14 12:54:56,271 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-14 12:55:00,161 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:55:00,172 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:55:01,322 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:55:02,153 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:55:03,430 [main] INFO logger_File - User click ADD TO CARToption on ‘HP LP ‘HP LP3065’item
+2021-02-14 12:55:03,915 [main] INFO logger_File - User select quantity 1
+2021-02-14 12:55:03,989 [main] INFO logger_File - User click add to Cart button
+2021-02-14 12:55:04,588 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-02-14 12:55:04,592 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-14 12:55:07,754 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:55:07,768 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:55:08,887 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:55:09,430 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:55:11,135 [main] INFO logger_File - User click ADD TO CARToption on ‘Canon EOS 5D’ item
+2021-02-14 12:55:42,642 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-14 12:55:46,276 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:55:46,283 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:55:47,529 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:55:48,181 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:55:48,457 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-02-14 12:57:09,451 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-14 12:57:14,318 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:57:14,331 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:57:15,344 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:57:15,863 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:57:16,246 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-02-14 12:57:16,251 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-14 12:57:19,629 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:57:19,636 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:57:20,752 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:57:21,700 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:57:22,877 [main] INFO logger_File - User click ADD TO CARToption on ‘HP LP ‘HP LP3065’item
+2021-02-14 12:57:23,366 [main] INFO logger_File - User select quantity 1
+2021-02-14 12:57:23,450 [main] INFO logger_File - User click add to Cart button
+2021-02-14 12:57:24,237 [main] INFO logger_File - you have added HP LP 3065 to your Shopping cart!
+2021-02-14 12:57:24,600 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-02-14 12:57:24,607 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-14 12:57:28,149 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:57:28,163 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:57:29,007 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:57:29,578 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:57:30,780 [main] INFO logger_File - User click ADD TO CARToption on ‘Canon EOS 5D’ item
+2021-02-14 12:57:49,301 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-14 12:57:52,996 [main] INFO logger_File - Retail page is opened
+2021-02-14 12:57:53,003 [main] INFO logger_File - Page title  is verified
+2021-02-14 12:57:54,234 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 12:57:54,786 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 12:57:55,158 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-02-14 13:00:48,334 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-14 13:00:53,228 [main] INFO logger_File - Retail page is opened
+2021-02-14 13:00:53,245 [main] INFO logger_File - Page title  is verified
+2021-02-14 13:00:54,873 [main] INFO logger_File - User verify all items are present in Desktops tab   undefined
+2021-02-14 13:00:54,877 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-14 13:00:58,239 [main] INFO logger_File - Retail page is opened
+2021-02-14 13:00:58,247 [main] INFO logger_File - Page title  is verified
+2021-02-14 13:00:59,851 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   undefined
+2021-02-14 13:00:59,854 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-14 13:01:03,289 [main] INFO logger_File - Retail page is opened
+2021-02-14 13:01:03,296 [main] INFO logger_File - Page title  is verified
+2021-02-14 13:01:04,538 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   undefined
+2021-02-14 13:01:04,542 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-14 13:01:07,563 [main] INFO logger_File - Retail page is opened
+2021-02-14 13:01:07,570 [main] INFO logger_File - Page title  is verified
+2021-02-14 13:01:08,695 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   undefined
+2021-02-14 13:05:12,904 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-14 13:05:18,706 [main] INFO logger_File - Retail page is opened
+2021-02-14 13:05:18,719 [main] INFO logger_File - Page title  is verified
+2021-02-14 13:05:20,214 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 13:05:20,848 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 13:05:21,139 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-02-14 13:05:21,151 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-02-14 13:05:24,472 [main] INFO logger_File - Retail page is opened
+2021-02-14 13:05:24,478 [main] INFO logger_File - Page title  is verified
+2021-02-14 13:05:25,836 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 13:05:26,342 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 13:05:27,641 [main] INFO logger_File - User click ADD TO CARToption on ‘HP LP ‘HP LP3065’item
+2021-02-14 13:05:28,175 [main] INFO logger_File - User select quantity 1
+2021-02-14 13:05:28,254 [main] INFO logger_File - User click add to Cart button
+2021-02-14 13:05:28,964 [main] INFO logger_File - you have added HP LP 3065 to your Shopping cart!
+2021-02-14 13:05:29,382 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-02-14 13:05:29,387 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-14 13:05:32,425 [main] INFO logger_File - Retail page is opened
+2021-02-14 13:05:32,437 [main] INFO logger_File - Page title  is verified
+2021-02-14 13:05:33,546 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 13:05:34,125 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 13:05:35,460 [main] INFO logger_File - User click ADD TO CARToption on ‘Canon EOS 5D’ item
+2021-02-14 13:05:46,364 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-02-14 13:05:49,769 [main] INFO logger_File - Retail page is opened
+2021-02-14 13:05:49,776 [main] INFO logger_File - Page title  is verified
+2021-02-14 13:05:51,058 [main] INFO logger_File - User click on Desktops tab
+2021-02-14 13:05:51,729 [main] INFO logger_File - User click on Show all desktops
+2021-02-14 13:05:52,084 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
