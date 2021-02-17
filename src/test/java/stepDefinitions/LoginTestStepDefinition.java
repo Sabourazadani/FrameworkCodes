@@ -12,6 +12,8 @@ import utilities.WebDriverUtility;
 public class LoginTestStepDefinition extends Base {
 
 	// we need to create obj of loginPageObj
+	
+	// this is a comment for git to test if this changes are made or not
 	LoginPageObj loginPageObj = new LoginPageObj();
 
 	@Given("^User is on Retail website$")
